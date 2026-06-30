@@ -10,3 +10,7 @@ A full-stack geopolitical analytics tool designed to track global supply chains 
 * **key achievements:**
     * Initialized basic logic in `Python` for calculating `net_deficit`.
     * used `arithmetic` & `membership` operators.
+## Sprint 2 : Parsing of data & manipulation of strings
+* **key achievements:**
+    * applied the concepts of `+ive indexing` , `-ive indexing` & `slicing` to access required data substrings from (say) data recieved from external database/APIs.
+    * used `striding` to reverse the data, to generate a simple unique id. 
